@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/01/02 10:31:43.843.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\YMSG15\uMain.pas</Transaction>
+    <Transaction>2008/01/02 10:31:43.843.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\YMSG15\uMain.dfm</Transaction>
+    <Transaction>2008/01/02 10:31:46.546.dproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project2.dproj=C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\YMSG15\YMSG15.dproj</Transaction>
+    <Transaction>2008/01/02 10:39:15.718.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\YMSG15\Unit1.pas=C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\YMSG15\uYMSG.pas</Transaction>
+    <Transaction>2008/01/02 21:32:47.562.pas,F:\YMSG15\Unit1.pas=F:\YMSG15\uCrypt.pas</Transaction>
+  </Transactions>
+</BorlandProject>
